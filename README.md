@@ -2,25 +2,50 @@
 
 A comprehensive healthcare management system built with React, TypeScript, and Node.js that provides role-based access for doctors, medical administrators, staff, and patients.
 
-![Smart Hospital System](banner.png)
 
 ## 🎥 Demo
 
 <div align="center">
 
 <a href="https://youtu.be/VJuOrDhEqqk">
-  <img src="https://img.youtube.com/vi/VJuOrDhEqqk/maxresdefault.jpg" alt="Smart Hospital System Demo" width="560" height="315" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://img.youtube.com/vi/VJuOrDhEqqk/maxresdefault.jpg" alt="Smart Hospital System Demo" width="650" height="315" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </a>
 
 *Click the image above to watch the full demo video on YouTube*
 
 </div>
 
+## 🚀 Quick Access
+
+<div align="center">
+
+| Feature | Description | Link |
+|---------|-------------|------|
+| 🏥 **Live Demo** | Experience the application | [Try Demo](https://youtu.be/VJuOrDhEqqk) |
+| 📚 **Documentation** | Complete setup guide | [View Docs](#installation--setup) |
+| 🐛 **Report Issues** | Found a bug? Let us know | [GitHub Issues](https://github.com/Kidhurshan/Smart-hospital-system-FrontEnd/issues) |
+| ⭐ **Star Project** | Support the project | [GitHub Repo](https://github.com/Kidhurshan/Smart-hospital-system-FrontEnd) |
+
+</div>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
 ## 📋 Table of Contents
 
 - [Demo Video](#demo-video)
+- [Quick Access](#quick-access)
+- [Tech Stack](#tech-stack)
 - [Overview](#overview)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
 - [System Architecture](#system-architecture)
 - [Prerequisites](#prerequisites)
@@ -92,6 +117,21 @@ The Smart Hospital System is a modern, full-stack healthcare management applicat
 - Geographic data visualization
 - Blood count analysis
 - BMI tracking
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏥 Dashboard Overview
+<img src="public/images/dashboard-overview.png" alt="Dashboard Overview" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="public/images/patient-management.png" alt="Patient Management" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="public/images/medical-analytics.png" alt="Medical Analytics" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+
+### 👨‍⚕️ Doctor Interface
+<img src="public/images/doctor-dashboard.png" alt="Doctor Dashboard" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="public/images/patient-records.png" alt="Patient Records" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+
+</div>
 
 ## 🛠 Technology Stack
 
@@ -177,8 +217,8 @@ sudo apt-get install mongodb
 
 ```bash
 # Clone the main repository
-git clone <repository-url>
-cd FRONTEND-SMART HOSPITAL SYSTEM
+git clone https://github.com/Kidhurshan/Smart-hospital-system-FrontEnd.git
+cd Smart-hospital-system-FrontEnd
 
 # Navigate to backend directory
 cd BACKEND-SMART HOSPITAL SYSTEM/smart-hospital-system
