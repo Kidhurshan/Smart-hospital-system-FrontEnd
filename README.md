@@ -27,20 +27,6 @@ A comprehensive healthcare management system built with React, TypeScript, and N
 
 </div>
 
-## 🚀 Quick Access
-
-<div align="center">
-
-| Feature | Description | Link |
-|---------|-------------|------|
-| 🏥 **Live Demo** | Experience the application | [Try Demo](https://youtu.be/VJuOrDhEqqk) |
-| 📚 **Documentation** | Complete setup guide | [View Docs](#installation--setup) |
-| 🐛 **Report Issues** | Found a bug? Let us know | [GitHub Issues](https://github.com/Kidhurshan/Smart-hospital-system-FrontEnd/issues) |
-| ⭐ **Star Project** | Support the project | [GitHub Repo](https://github.com/Kidhurshan/Smart-hospital-system-FrontEnd) |
-
-</div>
-
-
 ## 📋 Table of Contents
 
 - [Demo Video](#demo-video)
