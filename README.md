@@ -34,9 +34,6 @@ A comprehensive healthcare management system built with React, TypeScript, and N
 
 </div>
 
-## 🛠 Tech Stack
-
-
 
 ## 📋 Table of Contents
 
@@ -122,14 +119,9 @@ The Smart Hospital System is a modern, full-stack healthcare management applicat
 
 <div align="center">
 
-### 🏥 Dashboard Overview
-<img src="public/images/dashboard-overview.png" alt="Dashboard Overview" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
-<img src="public/images/patient-management.png" alt="Patient Management" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
-<img src="public/images/medical-analytics.png" alt="Medical Analytics" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
-
-### 👨‍⚕️ Doctor Interface
-<img src="public/images/doctor-dashboard.png" alt="Doctor Dashboard" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
-<img src="public/images/patient-records.png" alt="Patient Records" width="300" height="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="https://github.com/user-attachments/assets/43d06994-cb3c-4b09-8c72-06db31e4c3be" alt="Dashboard Overview" width="300"  style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="[public/images/patient-management.png](https://github.com/user-attachments/assets/a2052caa-ea6d-459d-82e3-86c4c3098733)" alt="Patient Management" width="300"  style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
+<img src="[public/images/medical-analytics.png](https://github.com/user-attachments/assets/24087163-ab37-4950-8c68-ae711fa43b23)" alt="Medical Analytics" width="300"  style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;">
 
 </div>
 
