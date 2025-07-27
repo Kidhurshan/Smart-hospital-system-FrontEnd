@@ -2,13 +2,19 @@
 
 A comprehensive healthcare management system built with React, TypeScript, and Node.js that provides role-based access for doctors, medical administrators, staff, and patients.
 
+<div align="center">
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 ## 🎥 Demo
 
 <div align="center">
 
 <a href="https://youtu.be/VJuOrDhEqqk">
-  <img src="https://img.youtube.com/vi/VJuOrDhEqqk/maxresdefault.jpg" alt="Smart Hospital System Demo" width="650" height="315" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://img.youtube.com/vi/VJuOrDhEqqk/maxresdefault.jpg" alt="Smart Hospital System Demo" width="650" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </a>
 
 *Click the image above to watch the full demo video on YouTube*
@@ -30,13 +36,7 @@ A comprehensive healthcare management system built with React, TypeScript, and N
 
 ## 🛠 Tech Stack
 
-<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
 
 ## 📋 Table of Contents
 
