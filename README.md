@@ -1,5 +1,7 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd6eb064-bb91-4228-ad18-1f5c9ae69239" />
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/bd6eb064-bb91-4228-ad18-1f5c9ae69239" />
+
 <div align="center">
+
 # 🏥 Smart Hospital System
 </div>
 A comprehensive healthcare management system built with React, TypeScript, and Node.js that provides role-based access for doctors, medical administrators, staff, and patients.
